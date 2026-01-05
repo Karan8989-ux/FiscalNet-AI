@@ -79,3 +79,12 @@
     ```bash
     streamlit run app.py
     ```
+    Reqyuirements to install before
+streamlit
+pandas
+networkx
+matplotlib
+fpdf
+google-generativeai
+faker
+scikit-learn
