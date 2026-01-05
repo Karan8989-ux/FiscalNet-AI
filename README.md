@@ -50,6 +50,14 @@
 2.  **Install Dependencies**
     ```bash
     pip install -r requirements.txt
+    streamlit
+pandas
+networkx
+matplotlib
+fpdf
+google-generativeai
+faker
+scikit-learn
     ```
 
 3.  **Setup API Key**
@@ -79,12 +87,4 @@
     ```bash
     streamlit run app.py
     ```
-    Reqyuirements to install before
-streamlit
-pandas
-networkx
-matplotlib
-fpdf
-google-generativeai
-faker
-scikit-learn
+  
