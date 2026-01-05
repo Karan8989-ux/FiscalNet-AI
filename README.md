@@ -65,13 +65,9 @@ scikit-learn
     - Find line 16: `GEMINI_API_KEY = "PASTE_YOUR_REAL_GEMINI_API_KEY_HERE"`.
     - Replace it with your Google Gemini API Key.
 
-4.  **Generate Synthetic Data**
-    Run the data generator to create a fresh dataset of Officers, Vendors, and Transactions.
-    ```bash
-    python data_gen.py
-    ```
 
-5.  **Run the Application**
+
+4.  **Run the Application**
 ```bash
     streamlit run app.py
     ```
